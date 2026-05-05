@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Aspiring+IoT+Engineer;Robotics+Enthusiast;Building+things+from+scratch!)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I have a huge passion for the **Internet of Things (IoT)** and **Robotics**. Currently, I am on a journey to build my hardware and software skills from the ground up, with the ultimate goal of creating systems that bridge the digital and physical worlds.
+Welcome to my GitHub profile! I have a huge passion for the **Internet of Things (IoT)**. Currently, I am on a journey to build my hardware and software skills from the ground up, with the ultimate goal of creating systems that bridge the digital and physical worlds.
 
 To me, every line of code and every connected circuit is a new step toward understanding technology on a deeper level.
 
